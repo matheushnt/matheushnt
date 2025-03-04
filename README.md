@@ -19,7 +19,7 @@ Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmen
 - 🗣️ Inglês técnico para desenvolvimento
 
 ### 📬 Contato
-- [LinkedIn](linkedin.com/in/matheushnt/)
+- [LinkedIn](www.linkedin.com/in/matheushnt)
 - [Email](matheushnt06@gmail.com)
 
 while (true) { code(); } 💻

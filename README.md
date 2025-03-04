@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, sou o Matheus!
 
-<!--
-**matheushnt/matheushnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Sobre mim
+Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmente, estou focado em aprender Django, enquanto aprimoro minhas habilidades em HTML e CSS.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tecnologias
+- **Linguagens**: Python
+- **Frameworks**: Django
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git
+<!--[### 📌 Projetos em destaque
+- 🚀 [Dashboard de Previsão do Tempo](#)
+- 📋 [Aplicação ToDo com Django](#)](url)
 -->
+
+### 📖 Atualmente estudando
+- 🖥️ Class-Based Views no Django
+- 🖼️ HTML e CSS
+- 🗣️ Inglês técnico para desenvolvimento
+
+### 📬 Contato
+- [LinkedIn](linkedin.com/in/matheushnt/) 
+- [Email](matheushnt06@gmail.com)
+
+while (true) { code(); } 💻
+

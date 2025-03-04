@@ -20,7 +20,7 @@ Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmen
 
 ### 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/matheushnt)
-- [Email](matheushnt06@gmail.com)
+- [Email](mailto:matheushnt06@gmail.com)
 
 while (true) { code(); } 💻
 

@@ -14,7 +14,7 @@ Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmen
 -->
 
 ### 📖 Atualmente estudando
-- 🖥️ Class-Based Views no Django
+- 🖥️ Django
 - 🖼️ HTML e CSS
 - 🗣️ Inglês técnico para desenvolvimento
 

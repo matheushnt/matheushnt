@@ -6,7 +6,7 @@ Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmen
 ### 🛠️ Tecnologias
 - **Linguagens**: Python
 - **Frameworks**: Django
-- **Banco de Dados**: MySQL
+- **Banco de Dados**: MySQL, PostgreSQL
 - **Ferramentas**: Git
 <!--[### 📌 Projetos em destaque
 - 🚀 [Dashboard de Previsão do Tempo](#)
@@ -15,8 +15,8 @@ Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmen
 
 ### 📖 Atualmente estudando
 - 🖥️ Django
-- 🖼️ HTML e CSS
-- 🗣️ Inglês técnico para desenvolvimento
+- 💾 PostgreSQL
+- 🖼️ HTML, CSS e JavaScript
 
 ### 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/matheushnt)

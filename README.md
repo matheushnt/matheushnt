@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Matheus!
 
 ### 🌍 Sobre mim
-Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmente, estou focado em aprender Django, enquanto aprimoro minhas habilidades em HTML e CSS.
+Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmente, estou focado em aprender Django, enquanto aprimoro minhas habilidades em HTML, CSS e JavaScript.
 
 ### 🛠️ Tecnologias
 - **Linguagens**: Python

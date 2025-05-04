@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, sou o Matheus!
 
-<!--
-**matheushnt/matheushnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor back-end apaixonado por tecnologia desde criança. Atualmente, estou focado em aprender HTML, CSS e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- **Linguagens:** JavaScript (aprendendo)
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git
+
+## 📚 Atualmente estudando
+
+- 🎨 HTML, CSS e JavaScript
+
+## 📬 Contato
+
+- [LinkedIn](http://linkedin.com/in/matheushnt/)
+- [Email](mailto:matheushnt06@gmail.com)
+
+---
+
+`while (true) { evoluir(); }` 💻

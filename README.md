@@ -84,12 +84,8 @@ Ao longo dos últimos anos, venho estudando o desenvolvimento web, e recentement
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushnt&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&locale=pt-br"
 />
 
-<br/>
-
 ### 📩 Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheushnt/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheushnt06@gmail.com)
-
-<br/>
 
 `while (true) { evoluir(); }` 💻

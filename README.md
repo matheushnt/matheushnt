@@ -69,6 +69,15 @@ Ao longo dos últimos anos, venho estudando o desenvolvimento web, e recentement
 ### 📊 Estatísticas
 
 <img
+    align="left"
+    alt="GitHub Stats"
+    height="180"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=matheushnt&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+/>
+
+
+<img
     alt="GitHub Stats"
     height="180"
     style="padding-right: 10px;"

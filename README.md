@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Matheus, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Desde criança, sempre fui apaixonado por tecnologia e curioso para entender como as coisas funcionam. Essa paixão me levou a seguir carreira na área de desenvolvimento.
 
-Ao longo dos últimos anos, venho estudando o desenvolvimento web, e recentemente decidi direcionar minha carreira para o Front-End. Estou constantemente buscando aprender mais e me desenvolver para atuar com qualidade nesse campo.
+Ao longo dos últimos anos, venho estudando o desenvolvimento web, com foco no Front-End. Estou constantemente buscando aprender mais e me desenvolver para atuar com qualidade nesse campo.
 
 ---
 

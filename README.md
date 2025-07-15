@@ -1,10 +1,16 @@
-# 👋 Matheus Henrique
+
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Matheus Henrique
 
 **`Desenvolvedor Front-end`**
 
-Olá! Meu nome é Matheus, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Desde criança, sempre fui apaixonado por tecnologia e curioso para entender como as coisas funcionam. Essa paixão me levou a seguir carreira na área de desenvolvimento.
+E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Ao longo dos últimos anos, venho estudando o desenvolvimento web e, hoje, meu foco é o Front-end. Estou constantemente buscando aprender mais e me desenvolver para atuar com qualidade nesse campo.
+Meu nome é Matheus Henrique, um entusiasta da tecnologia e desenvolvedor front-end. Minha aventura na programação iniciou-se em 2023. Aprendi HTML, CSS e JS, mas, depois acabei migrando para o Python, linguagem na qual consolidei minha base em lógica de programação e algoritmos.
+
+Escolhi essa profissão, primeiro, porque fiquei empolgado com a ideia de criar ou contribuir em um software que ajude outras pessoas; e, segundo, porque gosto de desafios, pois foi por meio deles que pude evoluir tanto como pessoa quanto como profissional. São esses os motivos que me movem a continuar aprendendo cada vez mais.
+
+E, aqui é onde eu escrevo minha história na programação — um lugar que mapeia a minha jornada.
 
 ---
 
@@ -86,6 +92,10 @@ Ao longo dos últimos anos, venho estudando o desenvolvimento web e, hoje, meu f
 
 ### 📩 Contato
 
+#### Se meu código está funcionando, nem mexa nele. Mas se der ruim, me chama que a gente resolve juntos.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheushnt/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheushnt06@gmail.com)
+
+---
 
 `while (true) { evoluir(); }` 💻

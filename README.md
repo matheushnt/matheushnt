@@ -45,6 +45,15 @@ E, aqui é onde eu escrevo minha história na programação — um lugar que map
 
 <img
     align="left"
+    alt="react"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img
+    align="left"
     alt="python"
     title="Python"
     width="30px"

@@ -2,15 +2,22 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Matheus Henrique
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-end`**
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Meu nome é Matheus Henrique, um entusiasta da tecnologia e desenvolvedor front-end. Minha aventura na programação iniciou-se em 2023. Aprendi HTML, CSS e JS, mas, depois acabei migrando para o Python, linguagem na qual consolidei minha base em lógica de programação e algoritmos.
+Meu nome é Matheus Henrique, um entusiasta da tecnologia e desenvolvedor back-end. Minha aventura na programação iniciou-se em 2023. Aprendi HTML, CSS e JS, mas, depois acabei migrando para o Python, linguagem na qual consolidei minha base em lógica de programação e algoritmos.
 
 Escolhi essa profissão, primeiro, porque fiquei empolgado com a ideia de criar ou contribuir em um software que ajude outras pessoas; e, segundo, porque gosto de desafios, pois foi por meio deles que pude evoluir tanto como pessoa quanto como profissional. São esses os motivos que me movem a continuar aprendendo cada vez mais.
 
-E, aqui é onde eu escrevo minha história na programação — um lugar que mapeia a minha jornada.
+Mas a minha caminhada ainda está só começando.
+
+O que eu realmente busco é me tornar um desenvolvedor fullstack. Quero ter a liberdade de transitar entre o back e o front, de pensar no que acontece por trás de uma aplicação e também no que o usuário vê e sente ao usá-la.
+Mais do que aprender ferramentas, quero construir coisas completas, que façam sentido e que tenham um propósito.
+
+Esse é o objetivo que me guia nessa jornada.
+
+E, aqui é onde eu escrevo minha história na programação — um lugar que mapeia a minha trajetória.
 
 ---
 
@@ -45,11 +52,11 @@ E, aqui é onde eu escrevo minha história na programação — um lugar que map
 
 <img
     align="left"
-    alt="react"
-    title="React"
+    alt="nodejs"
+    title="Node.js"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
 <img
@@ -77,15 +84,6 @@ E, aqui é onde eu escrevo minha história na programação — um lugar que map
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-    align="left"
-    alt="figma"
-    title="Figma"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 
 <br/>

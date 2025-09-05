@@ -106,6 +106,8 @@ E, aqui é onde eu escrevo minha história na programação — um lugar que map
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushnt&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&locale=pt-br"
 />
 
+<br>
+
 ### 📩 Contato
 
 #### Se meu código está funcionando, nem mexa nele. Mas se der ruim, me chama que a gente resolve juntos.

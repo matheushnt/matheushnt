@@ -6,7 +6,7 @@
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Sou um desenvolvedor back-end e entusiasta da tecnologia, focado em Node.js e TypeScript, com uma base sólida em Python.
+Sou um desenvolvedor back-end e entusiasta da tecnologia, com experiência em Node.js, TypeScript, PHP e Python.
 
 Minha jornada na programação começou em 2023, e desde então venho construindo projetos que unem técnica e propósito. O que mais me motiva é criar soluções que realmente ajudem pessoas - e enfrentar os desafios que me fazem evoluir como profissional.
 
@@ -54,20 +54,39 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
 
 <img
     align="left"
-    alt="python"
-    title="Python"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img
-    align="left"
     alt="vitest"
     title="Vitest"
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"
+/>
+
+
+<img
+    align="left"
+    alt="php"
+    title="PHP"
+    width="32px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
+<img
+    align="left"
+    alt="laravel"
+    title="Laravel"
+    width="32px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+
+<img
+    align="left"
+    alt="python"
+    title="Python"
+    width="32px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img

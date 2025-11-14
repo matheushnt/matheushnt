@@ -54,16 +54,6 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
 
 <img
     align="left"
-    alt="vitest"
-    title="Vitest"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"
-/>
-
-
-<img
-    align="left"
     alt="php"
     title="PHP"
     width="32px"

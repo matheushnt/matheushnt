@@ -16,14 +16,14 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
 
 ## 🛠️ Linguagens e Tecnologias
 
-<!-- <img
+<img
     align="left"
     alt="javascript"
     title="JavaScript"
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/> -->
+/>
 
 <img
     align="left"
@@ -88,14 +88,14 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
-<img
+<!-- <img
     align="left"
     alt="docker"
     title="Docker"
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
-/>
+/> -->
 <!--
 <br/>
 

@@ -6,7 +6,7 @@
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Sou um desenvolvedor back-end e entusiasta da tecnologia, com experiência em Node.js, TypeScript, PHP e Python.
+Sou um desenvolvedor backend e entusiasta da tecnologia, com experiência em PHP, Node.js, TypeScript e Python.
 
 Minha jornada na programação começou em 2023, e desde então venho construindo projetos que unem técnica e propósito. O que mais me motiva é criar soluções que realmente ajudem pessoas - e enfrentar os desafios que me fazem evoluir como profissional.
 

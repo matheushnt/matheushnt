@@ -6,7 +6,7 @@
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Sou um desenvolvedor backend e entusiasta da tecnologia, com experiência em PHP, Node.js, TypeScript e Python.
+Sou um desenvolvedor backend e entusiasta da tecnologia, com experiência em PHP, Node.js e Python.
 
 Minha jornada na programação começou em 2023, e desde então venho construindo projetos que unem técnica e propósito. O que mais me motiva é criar soluções que realmente ajudem pessoas - e enfrentar os desafios que me fazem evoluir como profissional.
 
@@ -43,14 +43,14 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-<img
+<!-- <img
     align="left"
     alt="typescript"
     title="TypeScript"
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
+/> -->
 
 <img
     align="left"

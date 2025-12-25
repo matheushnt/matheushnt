@@ -1,8 +1,8 @@
 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Matheus Henrique
+# <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Matheus Nunes
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Backend`**
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 

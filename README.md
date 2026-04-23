@@ -18,13 +18,21 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
 
 <img
     align="left"
+    alt="java"
+    title="Java"
+    width="32px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+    align="left"
     alt="php"
     title="PHP"
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
-
 
 <img
     align="left"
@@ -44,14 +52,14 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 /> -->
 
-<img
+<!-- <img
     align="left"
     alt="python"
     title="Python"
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+/> -->
 
 <img
     align="left"

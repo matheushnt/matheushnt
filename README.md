@@ -6,11 +6,9 @@
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Sou um desenvolvedor backend e entusiasta da tecnologia, com experiência em PHP, JavaScript e Python.
+Sou um desenvolvedor backend e entusiasta da tecnologia, com experiência em PHP e Java.
 
-Minha jornada na programação começou em 2023, e desde então venho construindo projetos que unem técnica e propósito. O que mais me motiva é criar soluções que realmente ajudem pessoas - e enfrentar os desafios que me fazem evoluir como profissional.
-
-Meu objetivo é me tornar um desenvolvedor fullstack, capaz de atuar tanto na estrutura de uma aplicação quanto na experiência de quem a utiliza.
+Comecei a programar em 2023. Trabalho como desenvolvedor Backend, principalmente com PHP e um pouco de Java. Sou autodidata e gosto de entender o porquê das coisas, não só o como, encaro isso como parte do trabalho. O que me motiva é resolver problemas reais e continuar evoluindo com cada desafio novo.
 
 Este espaço é onde registro essa trajetória - uma linha de código de cada vez.
 
@@ -42,16 +40,7 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-
-<!-- <img
-    align="left"
-    alt="nodejs"
-    title="Node.js"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/> -->
-
+          
 <!-- <img
     align="left"
     alt="python"
@@ -68,6 +57,15 @@ Este espaço é onde registro essa trajetória - uma linha de código de cada ve
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+
+<img
+    align="left"
+    alt="spring framework"
+    title="Spring Framework"
+    width="32px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
 <img

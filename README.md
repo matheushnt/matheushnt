@@ -2,11 +2,11 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Matheus Nunes
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Back-End`**
 
 E se cada linha de código contasse uma história? Deixa eu te apresentar as minhas.
 
-Sou um desenvolvedor backend e entusiasta da tecnologia, com experiência em PHP e Java.
+Sou um desenvolvedor back-end e entusiasta da tecnologia, com experiência em PHP e Java.
 
 Comecei a programar em 2023. Trabalho como desenvolvedor Backend, principalmente com PHP e um pouco de Java. Sou autodidata e gosto de entender o porquê das coisas, não só o como, encaro isso como parte do trabalho. O que me motiva é resolver problemas reais e continuar evoluindo com cada desafio novo.
 
